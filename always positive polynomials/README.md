@@ -25,3 +25,10 @@ Ensure the following libraries are installed for Python 3.10:
 To install these libraries, run the following command in your terminal:  
 ```sh
 py -3.10 -m pip install numpy pandas torch scikit-learn sympy streamlit matplotlib
+```
+# How to Use
+
+- Save as ZIP and extract the ZIP into a file.
+- Enter to file named "project".
+- Open Terminal.
+- Enter the prompt "py -3.10 -m streamlit run vae_gan_ui_integration.py" into the terminal.
