@@ -1,6 +1,5 @@
 # ML for Polynomials
-GTU first graduation project based on generating always positive polynomials using machine learning models. For this purpose GAN and VAE models are used. <br>
-Collaborated with my friend Sare Nur Aydın on this project.
+The first graduation project at GTU focused on generating always positive polynomials using machine learning models. This project utilized both Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs). I collaborated with my friend Sare Nur Aydın, with Sare working on the GAN implementation while I focused on the VAE approach.
 
 <br>
 
