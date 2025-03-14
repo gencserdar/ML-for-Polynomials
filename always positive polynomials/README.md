@@ -29,6 +29,9 @@ py -3.10 -m pip install numpy pandas torch scikit-learn sympy streamlit matplotl
 # How to Use
 
 - Save as ZIP and extract the ZIP into a file.
-- Enter to file named "project".
+- Enter the file named "project".
 - Open Terminal.
-- Enter the prompt "py -3.10 -m streamlit run vae_gan_ui_integration.py" into the terminal.
+- Enter the following command into your terminal:
+```sh
+py -3.10 -m streamlit run vae_gan_ui_integration.py
+```
